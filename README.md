@@ -16,7 +16,7 @@ Skills: PYTHON/ EXCEL/TABLEAU / SQL
 - ⚡ Fun fact: I have an interest in marketing/product analytics.  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yfirdaws)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/firdaws-yahya-196749154//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://yfirdaws.github.io/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>](https://datasciencewithfiddy.wordpress.com/blog/)  
+[<img src='https://github.com/paulrobertlloyd/socialmediaicons/blob/main/github-32x32.png' alt='github' height='40'>](https://github.com/yfirdaws)  [<img src='https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-32x32.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/firdaws-yahya-196749154//)  [<img src='https://github.com/paulrobertlloyd/socialmediaicons/blob/main/website-32x32.png' alt='website' height='40'>](https://yfirdaws.github.io/)  [<img src='https://github.com/yfirdaws/yfirdaws/blob/main/wordpress.png' alt='wordpress' height='40'>](https://datasciencewithfiddy.wordpress.com/blog/)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
