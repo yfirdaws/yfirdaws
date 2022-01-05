@@ -1,6 +1,6 @@
 
-### Hi there 👋, my name is Firdaws
-#### I am interested in anything data
+## Hi there 👋, my name is Firdaws
+### I am interested in anything data
 ![I am interested in anything data](https://github.com/yfirdaws/yfirdaws/blob/main/readme%20banner.png)
 
 A computer science graduate with an interest in the data science field. I love collecting data, analysis, visualizations, and machine learning. I am open to a job that requires any of these skills.  When I am not on GitHub updating my readme, you can find me on my blog [here](https://datasciencewithfiddy.wordpress.com/blog/  ) or reading books to kill time. 
@@ -11,7 +11,7 @@ Skills: PYTHON/ EXCEL/TABLEAU / SQL
 - 🌱 I’m currently learning R and powerBI 
 - 👯 I’m looking to collaborate on projects 
 - 🤔 I’m looking for help with entry level jobs and reviews 
-- 💬 Ask me about anything 
+- 💬 Ask me about anything..let's see how much I know
 - 📫 How to reach me: email:yfirdaws@gmail.com 
 - ⚡ Fun fact: I have an interest in marketing/product analytics.  
 
