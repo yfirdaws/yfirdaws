@@ -8,12 +8,12 @@ A computer science graduate with an interest in the data science field. I love c
 Skills: PYTHON/ EXCEL/TABLEAU / SQL
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning R and powerBI 
+- 🌱 I’m currently learning R 
 - 👯 I’m looking to collaborate on projects 
-- 🤔 I’m looking for help with entry level jobs and reviews 
+- 🤔 Looking for a job
 - 💬 Ask me about anything..let's see how much I know
 - 📫 How to reach me: email:yfirdaws@gmail.com 
-- ⚡ Fun fact: I have an interest in marketing/product analytics.  
+- ⚡ Fun fact: I love to read.  
 
 
 [<img src='https://github.com/paulrobertlloyd/socialmediaicons/blob/main/github-32x32.png' alt='github' height='40'>](https://github.com/yfirdaws)  [<img src='https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-32x32.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/firdaws-yahya-196749154//)  [<img src='https://github.com/paulrobertlloyd/socialmediaicons/blob/main/website-32x32.png' alt='website' height='40'>](https://yfirdaws.github.io/)  [<img src='https://github.com/yfirdaws/yfirdaws/blob/main/wordpress.png' alt='wordpress' height='40'>](https://datasciencewithfiddy.wordpress.com/blog/)  
